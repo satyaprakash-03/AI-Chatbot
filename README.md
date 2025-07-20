@@ -6,7 +6,7 @@ Welcome to **AI Chatbot**, a modern conversational assistant inspired by ChatGPT
 
 ## 🚀 Live Demo
 
-🔗 [Click Here to Try the AI Chatbot Live](https://priya-gupta-chatbot.netlify.app/)
+🔗 [Click Here to Try the AI Chatbot Live](https://satyaprakash-chatbot.netlify.app/)
 
 ---
 
